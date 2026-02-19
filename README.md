@@ -3,4 +3,4 @@ A mixed-integer solver that solves optimal intervention allocation across time a
 
 This python module is designed as a port from GAMS and uses `mip` to do mixed-integer optimization.
 
-Visit [the website](https://minimod-nutrition.github.io/minimod) for more information!
+Visit [the website](https://minimod-nutrition.github.io/minimod-opt) for more information!
